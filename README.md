@@ -34,3 +34,5 @@ Overall, the Digital Clock Hub is a simple yet effective web application that co
 *OUTPUT*
 
 <img width="1901" height="743" alt="Image" src="https://github.com/user-attachments/assets/8df903ab-34a6-4d6b-b657-93cf47700b16" />
+
+<img width="1911" height="747" alt="Image" src="https://github.com/user-attachments/assets/d30ee8a9-504f-43e1-acb0-091b3bdb866a" />
