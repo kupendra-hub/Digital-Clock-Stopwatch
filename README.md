@@ -29,3 +29,8 @@ The user interface of the Digital Clock Hub is designed using CSS styling and re
 JavaScript plays a key role in implementing the functionality of all modules. It handles real-time clock updates, alarm checking, stopwatch calculations, timer countdown operations, and page navigation. The project demonstrates the practical use of JavaScript functions, event handling, intervals, and DOM manipulation.
 
 Overall, the Digital Clock Hub is a simple yet effective web application that combines multiple time-management tools into one platform. It improves productivity by helping users monitor time, set reminders, measure durations, and manage schedules efficiently. The project is suitable for educational purposes and demonstrates the integration of HTML, CSS, and JavaScript to build an interactive and responsive web application. It serves as an excellent mini-project for students to understand front-end web development concepts and real-world application design.
+
+
+*OUTPUT*
+
+<img width="1901" height="743" alt="Image" src="https://github.com/user-attachments/assets/8df903ab-34a6-4d6b-b657-93cf47700b16" />
